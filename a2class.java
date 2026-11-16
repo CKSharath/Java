@@ -18,7 +18,7 @@ public class Main {
 
         // Creating the first object
         Student s1 = new Student();
-
+        //The new keyword creates an object by allocating memory for it on the heap and invokes its constructor to initialize it. 
         s1.name = "Rahul";
         s1.age = 18;
         s1.marks = 30;
