@@ -25,7 +25,7 @@ public class Main {
     public static void main(String[] args) {
 
         // Constructor automatically executes
-        Student s1 = new Student("Rahul", 18);
+        Student s1 = new Student();
 
         Student s2 = new Student("Priya", 19);
 
